@@ -1,2 +1,4 @@
-# nano-vla
-name subject to change in order to not conflict with those other guys
+# nano-vVLA-project
+unified virtual inference framework
+
+...very early days
